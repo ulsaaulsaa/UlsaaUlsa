@@ -1,0 +1,11 @@
+For i = 0 To 6 step 1
+    week = i
+    week[i]=TextWindow.Read()
+    week[0] = "18"
+    week[1] = "24"
+    week[2] = "16"
+    week[3] = "21"
+    week[4] = "18"
+    week[5] = "16"
+    week[6] = "20"
+EndFor
